@@ -31,16 +31,16 @@ We have no affiliation with any other projects, with any other names such as 4OM
 
 Follow our handy guides to get started on the basics as quickly as possible:
 
-{% content-ref url="fundamentals/what-is-t-or-2-or-3-finance.md" %}
-[what-is-t-or-2-or-3-finance.md](fundamentals/what-is-t-or-2-or-3-finance.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/get-started.md" %}
-[get-started.md](fundamentals/get-started.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/official-links.md" %}
-[official-links.md](fundamentals/official-links.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% hint style="info" %}

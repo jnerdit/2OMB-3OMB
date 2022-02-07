@@ -1,8 +1,8 @@
 ---
-description: 3OMB EXPLAINED
+description: 3OMB FINANCE EXPLAINED
 ---
 
-# ⁉ What is 3OMB?
+# 🔗 What is 3OMB?
 
 {% hint style="info" %}
 You may be trying to figure it all out - so what is the point of 3OMB? Why launch another FTM pegged token? Why didn't we just modify 2OMB? Whats the deal!?
@@ -14,9 +14,11 @@ The [**2OMB**](https://2omb.finance) project started as an experiment, and we ne
 
 Protocol changes and solutions implemented in 3OMB include:
 
-* Protocol Owned Liquidity (POL)&#x20;
+* Protocol Owned Liquidity (POL)
+* Rebates implemented in 3DAO
+* Automatic peg mechanics replacing the traditional bond system
 
-The 2OMB protocol works exceptionally well - however, the speed/emission rate is four times (4x) that of the typical 1 year design used in these protocols. We have noticed a commonality among Seigniorage projects, and that is volatility caused by large amounts of LP moving on/off the pools by whales. We have devised a platform with mechanics that allow 3OMB will retro-actively with 2OMB  Your 2OMB/ 2SHARES will be usable on the 3OMB protocol. They compliment each other, and even after 2SHARES stops emissions on 4.03.2022, the 3OMB protocol will help it retain value.
+The 2OMB protocol works exceptionally well - however, the speed/emission rate is four times (4x) that of the typical 1 year design used in these protocols. We have noticed a commonality among Seigniorage projects, and that is volatility caused by large amounts of LP moving on/off the pools by whales. We have devised a platform with mechanics that allow 3OMB will retro-actively with 2OMB  Your 2OMB/ 2SHARES will be usable on the 3OMB protocol. They compliment each other as after 2SHARES stops emissions on 4.03.2022, the 3OMB protocol will help 2OMB by incentivizing it.
 
 3OMB has designed a new protocol. Using parts and functionality that worked well in 2OMB, as well as some other great projects, we have designed an innovative new bonding system. With 3OMB we implement our new bonding mechanism, using an algorithm that will replace the traditional bonds system.&#x20;
 

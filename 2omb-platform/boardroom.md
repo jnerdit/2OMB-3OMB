@@ -23,7 +23,7 @@ description: SINGLE-SIDED 2SHARES STAKING
 
 **2OMB Price (TWAP):** The price of 2OMB relative to FTM, this is the current **peg ratio**. Ex. if this number is 1.5 - this would indicate a 1 2OMB = 1.5 FTM (1:1.5)
 
-**APR** refers to the simple returns in USD value relative to the amount of 2SHARES staked (USD value). _Note: **** APR fluctuates from time to time and is dependent on certain factors such as:_
+**APR: R**efers to the simple returns in USD value relative to the amount of 2SHARES staked (USD value). _Note: **** APR fluctuates from time to time and is dependent on certain factors such as:_
 
 * Price of 2OMB
 * Price of 2SHARES
