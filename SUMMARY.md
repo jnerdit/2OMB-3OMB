@@ -8,7 +8,18 @@
 ## INTRODUCTION
 
 * [⚰ HOME](introduction/home.md)
+* [Untitled](introduction/untitled.md)
+* [⚖ What is Seigniorage?](introduction/what-is-seigniorage/README.md)
+  * [Figma Integration](introduction/what-is-seigniorage/figma-integration.md)
 * [2OMB TOKENS](introduction/2omb-tokens.md)
+* [3OMB Tokens](introduction/3omb-tokens.md)
+* [Creating Liquidity](introduction/creating-liquidity.md)
+
+## 💸 Yield Optimizers
+
+* [Beluga Finance](yield-optimizers/beluga-finance.md)
+* [Beefy Finance](yield-optimizers/beefy-finance.md)
+* [YieldWolf](yield-optimizers/yieldwolf.md)
 
 ## 2OMB PLATFORM
 
@@ -23,19 +34,10 @@
 * [🕒 3ROOM](3omb-platform/3room.md)
 * [🥕 3FARM](3omb-platform/3farm.md)
 * [🏛 3DAO](3omb-platform/3dao.md)
-* [3OMB Tokens & Contracts](3omb-platform/3omb-tokens-and-contracts.md)
-
-## 💸 Yield Optimizers
-
-* [Beluga Finance](yield-optimizers/beluga-finance.md)
-* [Beefy Finance](yield-optimizers/beefy-finance.md)
-* [YieldWolf](yield-optimizers/yieldwolf.md)
 
 ## FUNDAMENTALS
 
 * [🔐 AC VAULTS](fundamentals/ac-vaults.md)
-* [⚖ What is Seigniorage?](fundamentals/what-is-seigniorage/README.md)
-  * [Figma Integration](fundamentals/what-is-seigniorage/figma-integration.md)
 * [🚀 What is DeFi?](fundamentals/what-is-defi/README.md)
   * [GitHub Integration](fundamentals/what-is-defi/github-integration.md)
 * [🦊 Using MetaMask](fundamentals/using-metamask.md)
