@@ -38,8 +38,7 @@
   * [Figma Integration](fundamentals/what-is-seigniorage/figma-integration.md)
 * [🚀 What is DeFi?](fundamentals/what-is-defi/README.md)
   * [GitHub Integration](fundamentals/what-is-defi/github-integration.md)
-* [🦊 Using MetaMask](fundamentals/using-metamask/README.md)
-  * [Intercom Integration](fundamentals/using-metamask/intercom-integration.md)
+* [🦊 Using MetaMask](fundamentals/using-metamask.md)
 
 ***
 
@@ -47,8 +46,8 @@
 
 ## Advanced
 
-* [How to bridge](advanced/how-to-bridge.md)
-* [Degen Zone](advanced/degen-zone.md)
+* [How to Bridge Assets](advanced/how-to-bridge-assets.md)
+* [⚠ DEGEN ZONE](advanced/degen-zone.md)
 * [Connecting MetaMask](advanced/connecting-metamask.md)
 * [Tokens](advanced/tokens.md)
 * [Strategies](advanced/strategies.md)
