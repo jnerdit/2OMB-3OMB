@@ -2,7 +2,7 @@
 description: SINGLE-SIDED 2SHARES STAKING
 ---
 
-# 📈 Boardroom
+# Boardroom
 
 * **Epoch duration**: 6 hours
 * **Deposits / Withdrawal** of 2SHARES into/from Boardroom will lock 2SHARES for (2) epochs and 2OMB rewards for 1 epochs.&#x20;

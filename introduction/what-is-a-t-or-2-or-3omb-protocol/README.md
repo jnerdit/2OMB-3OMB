@@ -2,7 +2,7 @@
 description: DETAILS ON HOW THESE PROTOCOLS WORK UNDER THE HOOD
 ---
 
-# ⚖ What is a T|2|3OMB Protocol?
+# What is a T|2|3OMB Protocol?
 
 {% hint style="danger" %}
 Please note that none of this is financial advice. You should do your due diligence to become an informed investor by doing your own research, coming to your own conclusions, and taking note of the risks and responsibilities associated with participating in 2|3OMB, or any other DeFi smart contract.

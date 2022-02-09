@@ -2,7 +2,7 @@
 description: STAKE LP TOKENS IN VARIOUS POOLS TO EARN 2SHARES
 ---
 
-# 🌽 Farms
+# Farms
 
 &#x20;Stake your LP in the [FARMS](https://2omb.finance/farms) tab to earn 2SHARES tokens
 

@@ -2,7 +2,7 @@
 description: OVERVIEW OF THE 3OMB LAUNCH & GENESIS POOL DETAILS
 ---
 
-# 🚀 3OMB LAUNCH
+# 3OMB LAUNCH
 
 ## What happens first?
 

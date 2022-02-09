@@ -2,7 +2,7 @@
 description: REBATES - A NEW TERM FOR BONDING ASSETS (NOT TO BE CONFUSED WITH 3BOND)
 ---
 
-# 🏛 3DAO
+# 3DAO
 
 ### 3DAO is a deflationary pegging mechanism that supports both 2OMB and 3OMB protocols.
 

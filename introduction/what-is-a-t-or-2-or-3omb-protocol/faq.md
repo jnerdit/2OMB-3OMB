@@ -2,7 +2,7 @@
 description: FREQUENTLY ASKED QUESTIONS
 ---
 
-# FAQ
+# ❓ FAQ
 
 **Q: When does 2SHARES stop emissions?**                                                                                             **A: April 3rd 2022 - (3 months total)**
 

@@ -4,7 +4,7 @@ description: >-
   OPERA NETWORK
 ---
 
-# ⚰ HOME
+# 🏡 Home
 
 ## We need a bigger picture frame
 

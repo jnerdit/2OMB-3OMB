@@ -1,9 +1,10 @@
 ---
 description: DRIVING LIQUID MARKETS ON FANTOM OPERA
 coverY: 0
+cover: .gitbook/assets/discord banner-01.png
 ---
 
-# ➡ T|2|3|Finance
+# ➡ T|2|3OMB FINANCE
 
 {% hint style="success" %}
 **T|2|3 Finance** is a collaboration of the [**2OMB**](https://2omb.finance)**/**[**3OMB**](https://3omb.finance) **** project and [**TOMB**](https://tomb.finance) **** project teams. We are a decentralized finance (DeFi) product. We are also a thriving [**community**](https://discord.gg/fAMqw6vF).  Leveraging the Fantom Opera blockchain to deliver our protocol with an advanced tech stack, that has cheap transactions at light-speed providing the best user-experience, accessible to all.
@@ -19,20 +20,18 @@ Please take the time to read all of our available documentation!
 We have no affiliation with any other projects, with any other names such as 4OMB, 5OMB or other such variants. We will update if anything changes. Please beware of scammers!  Make sure to only use links from official sources. **A team member will NEVER contact you first.**
 {% endhint %}
 
-## :dart: Start Here
+### Key Resources
 
-**Official Resources**
+{% content-ref url="introduction/what-is-a-t-or-2-or-3omb-protocol/" %}
+[what-is-a-t-or-2-or-3omb-protocol](introduction/what-is-a-t-or-2-or-3omb-protocol/)
+{% endcontent-ref %}
 
-{% hint style="info" %}
-**Good to know:** A succinct video overview is a great way to introduce folks to your product. Embed a Loom, Vimeo or YouTube video and you're good to go! We love this video from the fine folks at [Loom](https://loom.com) as a perfect example of a succinct feature overview.
-{% endhint %}
+{% content-ref url="introduction/2omb-contracts.md" %}
+[2omb-contracts.md](introduction/2omb-contracts.md)
+{% endcontent-ref %}
 
-### Guides: Jump right in
-
-Follow our handy guides to get started on the basics as quickly as possible:
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="introduction/3omb-contracts.md" %}
+[3omb-contracts.md](introduction/3omb-contracts.md)
 {% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}
@@ -43,22 +42,18 @@ Follow our handy guides to get started on the basics as quickly as possible:
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% hint style="info" %}
-**Good to know:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
-{% endhint %}
-
-### Fundamentals: Dive a little deeper
-
-Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
-
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="strategies.md" %}
-[strategies.md](strategies.md)
+{% content-ref url="introduction/brand-assets.md" %}
+[brand-assets.md](introduction/brand-assets.md)
 {% endcontent-ref %}
 
-{% content-ref url="advanced/degen-zone.md" %}
-[degen-zone.md](advanced/degen-zone.md)
+{% content-ref url="fundamentals/tools-and-charts.md" %}
+[tools-and-charts.md](fundamentals/tools-and-charts.md)
+{% endcontent-ref %}
+
+{% content-ref url="introduction/what-is-a-t-or-2-or-3omb-protocol/faq.md" %}
+[faq.md](introduction/what-is-a-t-or-2-or-3omb-protocol/faq.md)
 {% endcontent-ref %}

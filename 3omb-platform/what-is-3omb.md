@@ -2,7 +2,7 @@
 description: 3OMB FINANCE EXPLAINED
 ---
 
-# 🔗 What is 3OMB?
+# What is 3OMB?
 
 {% hint style="info" %}
 You may be trying to figure it all out - so what is the point of 3OMB? Why launch another FTM pegged token? Why didn't we just modify 2OMB? Whats the deal!?

@@ -2,7 +2,7 @@
 description: 2BOND - 2OMB BOND TOKEN
 ---
 
-# 💰 Bonds
+# Bonds
 
 {% embed url="https://ftmscan.com/address/0x9fe05f56c9a644eb92ee8f6987fd4edacb6da87d" %}
 Click here to view on the block explorer (https://ftmscan.com)
