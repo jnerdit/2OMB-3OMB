@@ -2,13 +2,13 @@
 description: DETAILS ON HOW THESE PROTOCOLS WORK UNDER THE HOOD
 ---
 
-# What is a T|2|3OMB Protocol?
+# 🚀 What is a T|2|3OMB Protocol?
 
 {% hint style="danger" %}
 Please note that none of this is financial advice. You should do your due diligence to become an informed investor by doing your own research, coming to your own conclusions, and taking note of the risks and responsibilities associated with participating in 2|3OMB, or any other DeFi smart contract.
 {% endhint %}
 
-Seigniorage is the difference between the face value of a currency, such as a $10 coin/token - and the cost to produce it. When the cost of minting a token within any given ecosystem, is lower than the actual market exchange value (positive seigniorage) then a yield is accrued by the party (contract) that mints the tokens.&#x20;
+Seigniorage is the difference between the face value of a currency, such as a $10 coin/token - and the cost to produce it. When the cost of minting a token within any given ecosystem, is lower than the actual market exchange value (positive seigniorage) then a yield is accrued by the party (contract) that mints the tokens.
 
 When applied to crypto and blockchain, you can do some interesting things. It is the main principle and mechanic at the core of our protocols. Here is the flow of the original protocol that T|2OMB used.
 
@@ -34,7 +34,7 @@ But before we dive into what $3OMB could mean for you as an investor, let’s br
 
 For Fantom to continue running as the fast, secure, and cost-effective blockchain we all know and love, its validator nodes will continue to rely on its $FTM token remaining staked and locked up, in increasing amounts over time as the number of validators on the network grows.\
 \
-FTM is distributed as a reward to all validator nodes, which will continue to increase in number to sustain the network's growth. However, the $FTM token itself has a fixed total with a maximum supply of 3.175 billion tokens. At the time of writing this, the staking requirement for a validator node requires 1,000,000 $FTM (soon to be voted down to 100,000 FTM) to be locked into that node for its lifespan. Additionally, people can 'Delegate' any amount of FTM to be locked onto the node for 14-365 days to earn passive income.&#x20;
+FTM is distributed as a reward to all validator nodes, which will continue to increase in number to sustain the network's growth. However, the $FTM token itself has a fixed total with a maximum supply of 3.175 billion tokens. At the time of writing this, the staking requirement for a validator node requires 1,000,000 $FTM (soon to be voted down to 100,000 FTM) to be locked into that node for its lifespan. Additionally, people can 'Delegate' any amount of FTM to be locked onto the node for 14-365 days to earn passive income.
 
 As of 2.08.2022;
 
@@ -54,7 +54,7 @@ $3OMB aims to become a major player in driving liquidity for the current ecosyst
 
 You may have read that by pegging to $FTM, $3OMB hopes to become a highly liquid, mirrored asset. What does this actually mean though?
 
-As an example, say the dollar is the world's main medium of exchange. Everything is measured in terms of dollars, whether that's your weekly salary, or whether it's the price of bread or a computer. And you need dollars to buy literal gas to get to the bakery, or to the computer store.&#x20;
+As an example, say the dollar is the world's main medium of exchange. Everything is measured in terms of dollars, whether that's your weekly salary, or whether it's the price of bread or a computer. And you need dollars to buy literal gas to get to the bakery, or to the computer store.
 
 But imagine if nobody wanted to use their dollars, and preferred to keep them under their mattresses instead. Since the value of everything gravitates in relation to the dollar, there would need to be something out there that is 1:1 "interchangeable" with the dollar, so that even if all the dollars in the world were tucked under mattresses, people could continue to transact freely.
 

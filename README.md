@@ -22,26 +22,31 @@ We have no affiliation with any other projects, with any other names such as 4OM
 
 ### Key Resources
 
-{% content-ref url="introduction/what-is-a-t-or-2-or-3omb-protocol/" %}
-[what-is-a-t-or-2-or-3omb-protocol](introduction/what-is-a-t-or-2-or-3omb-protocol/)
+{% content-ref url="introduction/readme/what-is-a-t-or-2-or-3omb-protocol.md" %}
+[what-is-a-t-or-2-or-3omb-protocol.md](introduction/readme/what-is-a-t-or-2-or-3omb-protocol.md)
 {% endcontent-ref %}
 
-{% content-ref url="2omb-overview/2omb-contracts.md" %}
-[2omb-contracts.md](2omb-overview/2omb-contracts.md)
+{% content-ref url="strategies.md" %}
+[strategies.md](strategies.md)
 {% endcontent-ref %}
 
-{% content-ref url="3omb-protocol/3omb-contracts.md" %}
-[3omb-contracts.md](3omb-protocol/3omb-contracts.md)
+{% content-ref url="introduction/readme/home.md" %}
+[home.md](introduction/readme/home.md)
 {% endcontent-ref %}
 
-{% content-ref url="useful-links/brand-assets.md" %}
-[brand-assets.md](useful-links/brand-assets.md)
+{% content-ref url="introduction/readme/faq.md" %}
+[faq.md](introduction/readme/faq.md)
 {% endcontent-ref %}
 
 {% content-ref url="fundamentals/tools-and-charts.md" %}
 [tools-and-charts.md](fundamentals/tools-and-charts.md)
 {% endcontent-ref %}
 
-{% content-ref url="introduction/what-is-a-t-or-2-or-3omb-protocol/faq.md" %}
-[faq.md](introduction/what-is-a-t-or-2-or-3omb-protocol/faq.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
+
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
+

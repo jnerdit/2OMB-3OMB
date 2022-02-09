@@ -2,7 +2,7 @@
 description: THE 2OMB PLATFORM TOKENS
 ---
 
-# 📄 2OMB Contracts
+# 2OMB Contracts
 
 ## 2OMB - 2OMB TOKEN <a href="#2omb-2omb-token" id="2omb-2omb-token"></a>
 

@@ -2,7 +2,7 @@
 description: 3OMB PROTOCOL TOKEN CONTRACT INFORMATION
 ---
 
-# 📃 3OMB Contracts
+# 3OMB Contracts
 
 ## 3OMB - 3OMB TOKEN
 
