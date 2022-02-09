@@ -8,15 +8,16 @@
 ## INTRODUCTION
 
 * [⚰ HOME](introduction/home.md)
-* [Untitled](introduction/untitled.md)
-* [⚖ What is Seigniorage?](introduction/what-is-seigniorage/README.md)
-  * [Figma Integration](introduction/what-is-seigniorage/figma-integration.md)
+* [⚖ What is a T|2|3OMB Protocol?](introduction/what-is-a-t-or-2-or-3omb-protocol/README.md)
+  * [FAQ](introduction/what-is-a-t-or-2-or-3omb-protocol/faq.md)
 * [2OMB Token Contracts](introduction/2omb-token-contracts.md)
 * [3OMB Token Contracts](introduction/3omb-token-contracts.md)
+* [Brand Assets](introduction/brand-assets.md)
 * [Creating Liquidity](introduction/creating-liquidity.md)
 
 ## 💸 Yield Optimizers
 
+* [Auto Compounding](yield-optimizers/auto-compounding.md)
 * [Beluga Finance](yield-optimizers/beluga-finance.md)
 * [Beefy Finance](yield-optimizers/beefy-finance.md)
 * [YieldWolf](yield-optimizers/yieldwolf.md)
@@ -35,21 +36,16 @@
 * [🥕 3FARM](3omb-platform/3farm.md)
 * [🏛 3DAO](3omb-platform/3dao.md)
 
-## FUNDAMENTALS
-
-* [🔐 AC VAULTS](fundamentals/ac-vaults.md)
-* [🚀 What is DeFi?](fundamentals/what-is-defi/README.md)
-  * [GitHub Integration](fundamentals/what-is-defi/github-integration.md)
-* [🦊 Using MetaMask](fundamentals/using-metamask.md)
-
 ***
 
 * [TOOLS & CHARTS](tools-and-charts.md)
+* [Strategies](strategies.md)
+
+## FUNDAMENTALS
+
+* [🦊 Using MetaMask](fundamentals/using-metamask.md)
+* [🌉 How to Bridge Assets](fundamentals/how-to-bridge-assets.md)
 
 ## Advanced
 
-* [How to Bridge Assets](advanced/how-to-bridge-assets.md)
 * [⚠ DEGEN ZONE](advanced/degen-zone.md)
-* [Connecting MetaMask](advanced/connecting-metamask.md)
-* [Tokens](advanced/tokens.md)
-* [Strategies](advanced/strategies.md)

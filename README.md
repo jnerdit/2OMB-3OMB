@@ -51,12 +51,12 @@ Follow our handy guides to get started on the basics as quickly as possible:
 
 Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
 
-{% content-ref url="advanced/tokens.md" %}
-[tokens.md](advanced/tokens.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="advanced/strategies.md" %}
-[strategies.md](advanced/strategies.md)
+{% content-ref url="strategies.md" %}
+[strategies.md](strategies.md)
 {% endcontent-ref %}
 
 {% content-ref url="advanced/degen-zone.md" %}
