@@ -1,34 +1,48 @@
+---
+description: DETAILS ON HOW THESE PROTOCOLS WORK UNDER THE HOOD
+---
+
 # ⚖ What is Seigniorage?
 
-Please note that none of this is financial advice. You should do your due diligence to become an informed investor by doing your own research, coming to your own conclusions, and taking note of the risks and responsibilities associated with participating in 2omb.
+{% hint style="danger" %}
+Please note that none of this is financial advice. You should do your due diligence to become an informed investor by doing your own research, coming to your own conclusions, and taking note of the risks and responsibilities associated with participating in 2|3OMB, or any other DeFi smart contract.
+{% endhint %}
 
-The team is available in the Discord to answer questions, so please reach out if they're not answered here!
+{% hint style="success" %}
+The team is available in the Discord to answer questions, so please reach out if they're not answered here! We are on a mission to bring ACCOUNTABILITY into the TRUST-LESS world of Decentralized Finance - aka DeFi - setting a new standard for what is acceptable, responsible, and transparent enough, such that the team, community, and investors have all the information they need, all the education the need, and all the confidence they need to do great things in this space.
+{% endhint %}
 
-## Why 3omb?
+## Why 3OMB?
 
 Why have a token that’s pegged to the price of $FTM when you could just use $FTM itself instead?
 
-Good question.\
+Good question!\
 \
-But before we dive into what $3OMB could mean for you as an investor, let’s break down the potential impact of $3OMB’s long-term success on the Fantom ecosystem as a whole.
+But before we dive into what $3OMB could mean for you as an investor, let’s break down the potential impact of $3OMB and it's role in helping the long-term success of the Fantom ecosystem as a whole.
 
-For Fantom to continue running as the fast, secure, and cost-effective blockchain we all know and love, its validator nodes will continue to rely on its $FTM token remaining staked and locked up.\
+For Fantom to continue running as the fast, secure, and cost-effective blockchain we all know and love, its validator nodes will continue to rely on its $FTM token remaining staked and locked up, in increasing amounts over time as the number of validators on the network grows.\
 \
-&#x20;$FTM is distributed as a reward to validator nodes, which will continue to increase in number to sustain the network's growth, whereas the $FTM token itself has a fixed maximum supply. At the time of writing this, the staking requirement for a validator node requires 3,175,000 $FTM, and "if the rewards stay at the current levels (depending on governance decisions), it will take more than two years to distribute all the rewards and to reach a full circulation of the total supply... and All the tokens taken together will never exceed the total cap of 3.175 billion FTM."
+FTM is distributed as a reward to all validator nodes, which will continue to increase in number to sustain the network's growth. However, the $FTM token itself has a fixed total with a maximum supply of 3.175 billion tokens. At the time of writing this, the staking requirement for a validator node requires 1,000,000 $FTM (soon to be voted down to 100,000 FTM) to be locked into that node for its lifespan. Additionally, people can 'Delegate' any amount of FTM to be locked onto the node for 14-365 days to earn passive income.&#x20;
 
-So if $FTM is intended to be "ideal for sending and receiving payments" as a decentralized alternative to stablecoins, what will happen when there just isn’t enough Opera-native $FTM to go around?
+As of 2.08.2022;
 
-If $3OMB succeeds in holding the peg, this will create a mirrored, liquid asset that can be moved around and traded without restrictions, all while benefiting from the price appreciation of the native $FTM token. Reaching the peg and holding the peg is crucial, and this will ultimately be what drives the value of $3OMB for investors. In the short term, this would mean attractive APRs for liquidity providers on what would essentially be a stable pair.
+* 1,348,136,212 FTM (51% of Circulating Supply) Locked in Validator Nodes
+* 2,657,587,186 FTM (Circulating Supply)
+* 3,175,000,000 FTM (Maximum Supply)
 
-So, once a liquid market is the norm, what happens next? What are some other reasons you’d want to hold $3OMB?
+So if $FTM is intended to be viable as a cheap, fast, decentralized alternative to Ethereum and others, what will happen when there just isn’t enough Opera-native $FTM to go around?
 
-$3OMB aims to become the primary utility token of the Fantom ecosystem, and the first step is its role in FTMpad, Fantom’s first incubator & launchpad. The selection, development, and deployment of the next generation of Fantom DeFi projects will be decided by those who hold $2SHARE, $3OMB’s governance token (affectionately referred to as “the money printer” by gravediggers). Oh, and we’re just getting started.
+If $3OMB succeeds in holding the peg, this will create a mirrored, liquid asset that can be moved around and traded without restrictions, all while benefiting from the price appreciation of the native $FTM token. Reaching the peg and holding the peg is crucial, and this will ultimately be what drives the value of $3OMB for investors. In the short term, this would mean attractive APRs for liquidity providers on what would _essentially_ be a stable pair.
 
-### _1.“I keep seeing that 3omb will solve Fantom Opera's liquidity issues, but I don't fully understand what that means or its implications.”_
+So, once a liquid market is established, what happens next? What are some other reasons you’d want to hold $3OMB?
 
-&#x20;You may have read that by pegging to $FTM, $3OMB hopes to become a highly liquid, mirrored asset. What does this actually mean though?
+$3OMB aims to become a major player in driving liquidity for the current ecosystem, and to become the new standard for DAO and algorithmic stablecoins in the future. The next generation of Fantom DeFi projects will be incentivized and leveraged by those who participate in projects like T|2|3OMB Finance.
 
-&#x20;As an example, say the dollar is the world's main medium of exchange. Everything is measured in terms of dollars, whether that's your weekly salary, or whether it's the price of bread or a computer. And you need dollars to buy literal gas to get to the bakery, or to the computer store.&#x20;
+### _1.“I keep seeing that 3OMB will solve Fantom Opera's liquidity issues, but I don't fully understand what that means or its implications.”_
+
+You may have read that by pegging to $FTM, $3OMB hopes to become a highly liquid, mirrored asset. What does this actually mean though?
+
+As an example, say the dollar is the world's main medium of exchange. Everything is measured in terms of dollars, whether that's your weekly salary, or whether it's the price of bread or a computer. And you need dollars to buy literal gas to get to the bakery, or to the computer store.&#x20;
 
 But imagine if nobody wanted to use their dollars, and preferred to keep them under their mattresses instead. Since the value of everything gravitates in relation to the dollar, there would need to be something out there that is 1:1 "interchangeable" with the dollar, so that even if all the dollars in the world were tucked under mattresses, people could continue to transact freely.
 
@@ -38,20 +52,24 @@ Knowing that whatever they received would be able to be traded in for a dollar a
 
 ### 1.“Generally speaking, what's the easiest flow to follow for compounding rewards?”
 
-&#x20;The following is NOT FINANCIAL ADVICE. It is for education and entertainment purposes only.&#x20;
+{% hint style="danger" %}
+The following is NOT FINANCIAL ADVICE. It is for educational and entertainment purposes only.&#x20;
+{% endhint %}
 
 There are countless strategies, and which one you choose depends on your risk tolerance and short, medium, and long-term goals. That being said, the "plug-and-play" method is detailed below. Also, take some profits along the way. Don't get too greedy.
 
 **If $3OMB is OVER the peg:**
 
-\-Buy $3OMB and pair it with $FTM to provide liquidity, and stake your 3OMB-FTM LP in the farm to earn $3SHARE rewards.\
-\-Take your $3SHARE rewards and stake them in the Boardroom to earn inflationary $3OMB rewards.\
+\-Buy $3OMB and pair it with $FTM to provide liquidity, and stake your 3OMB-wFTM LP in the farm to earn $3SHARES rewards.\
+\-Take your $3SHARES rewards and stake them in the 3ROOM to earn inflationary $3OMB rewards.\
 \-Sell half of your earned $3OMB for $FTM, and compound it back into the 3OMB-FTM LP.\
 \-Profit!
 
-#### **If $2OMB is UNDER the peg:**
+#### **If $3OMB is UNDER the peg:**
 
-Coming soon?.\
+* Buy 3OMB and exchange it for 3BOND. If you are  providing LP, you can break the LP to exchange $3OMB for $3BOND, and use the remaining $FTM to buy $3OMB to also exchange for $3BOND. Now you have a big fat bag of $3BOND, and you've also helped bring $3OMB back above peg so that we can resume printing.
+* Sell $3BOND for a redemption bonus once $3OMB is back over peg.
+* Profit from swap\
 
 
 ### 2. "What is 50/50?"
@@ -84,7 +102,7 @@ To simplify the explanation with a hypothetical example, let’s say an epoch is
 
 &#x20;You’d then have have $133 \*1.05 \*1.05 \*1.05 = $153 at the end of this second epoch.
 
-### **2. “What is compounding in the context of 3omb?”**
+### **2. “What is compounding in the context of 3OMB?”**
 
 Earning a return on gains you've already made from previous periods is what is commonly referred to as compounding.
 
@@ -96,41 +114,43 @@ Earning a return on gains you've already made from previous periods is what is c
 
 &#x20;After 365 days, compounding once daily: $4,848,272.
 
-## Boardroom
+## 3ROOM/BOARDROOM
 
-### **1. “What happens if I interact with the Boardroom in any way?”**
+### **1. What happens if I interact with the 3ROOM/BOARDROOM in any way?**
 
-&#x20;Any interaction with the boardroom will reset both timers. That's 1 epochs (6 hours) to withdraw your 3OMB rewards, and 2 epochs to unstake your 3share (12 hours).
+{% hint style="danger" %}
+Any interaction with the boardroom will reset both timers. That's 1 epochs (6 hours) to withdraw your 3OMB rewards, and 2 epochs to unstake your 3SHARES (12 hours).
+{% endhint %}
 
-### **2. “Are the boardroom rewards pro-rated by time? I.e if I stake three hours before the end of an epoch vs five hours before the end of an epoch, do I get different rewards?”**
+### **2. Are the 3ROOM/BOARDROOM rewards pro-rated by time? I.E. if I stake three hours before the end of an epoch vs. five hours before the end of an epoch, do I get different rewards?**
 
 No, it's determined by how much you have staked at the time of printing (i.e. end of one epoch and start of the other). It doesn't matter if you stake 3 hours before or 30 seconds before the emissions occur.
 
-### 3. "If I remove my $3SHARE from Boardroom without first collecting my $3OMB, will it be lost forever?"
+### 3. If I remove my SHARES from 3ROOM/BOARDROOM without first collecting my 2|3OMB, will it be lost forever?
 
 No, it will still be there to collect whenever you need.
 
-### 4. "The Boardroom APR dropped because we're in a 'debt phase.' What does this mean?"
+### 4. The Boardroom APR dropped because we're in a 'debt phase.' What does this mean?
 
-A debt phase takes place on the expansion epochs that start after a contraction period where there are still $3BOND to be redeemed.
+A debt phase takes place on the expansion epochs that start after a contraction period where there are still 2|3BOND to be redeemed.
 
-65% of Expansion during Debt Phase is allocated to the Treasury Fund to prepare for the 2BOND Redemption. This amount is still reserved  whether or not 2BOND holders are redeeming bonds or not.
+65% of Expansion during Debt Phase is allocated to the Treasury Fund to prepare for the 2BOND Redemption. This amount is still reserved  whether or not 2|3BOND holders are redeeming bonds or not.
 
-Once 3OMB in treasury is sufficiently full to meet all circulating bond redemption, expansion rates will resume to normal.
+Once 2|3OMB in treasury is sufficiently full to meet all circulating bond redemption, expansion rates will resume to normal.
 
-### 6. "If we're in a debt phase, how long will it last until Boardroom continues printing as normal?"
+### 6. If we're in a debt phase, how long will it last until Boardroom continues printing as normal?
 
-The debt phase will last as long as is necessary to adequately pay back outstanding $2BOND debt. Please keep in mind that the DAO will also need to collect a little extra, as there needs to be a cushion to cover the bonuses when people redeem $2BOND over peg.\
+The debt phase will last as long as is necessary to adequately pay back outstanding $2BOND debt. Please keep in mind that the DAO will also need to collect a little extra, as there needs to be a cushion to cover the bonuses when people redeem 2/3BOND over peg.\
 \
 There's no exact way of calculating how many epochs it takes, since we don't know exactly when people will redeem their $2BOND. If the debt phase is ended too early, and then the treasury doesn't have enough $2OMB to repay the $2BOND bonus, then the APR restriction would need to be turned back on.
 
-### 7. "At the end of the epoch, the Boardroom did not print $2OMB, and then no $2BOND(s) were issued in the pit. Why?"
+### 7. At the end of the epoch, the Boardroom did not print $2OMB, and then no $2BOND(s) were issued in the pit. Why?
 
-There is a balanced state "at peg" when $2OMB's TWAP is between 1.00 and 1.01, and this means there is neither contraction nor inflation.
+There is a balanced state "at peg" when the $2OMB TWAP is between 1.00 and 1.01, and this means there is neither contraction nor inflation.
 
-### 8. "If 2OMB continues climbing above the price of the peg, will that influence how long the debt epoch lasts?"
+### 8. If 2OMB continues climbing above the price of the peg, will that influence how long the debt epoch lasts?
 
-Depending on the price of 2omb, the Boardroom print will have to adjust to provide a buffer for any unclaimed 2BOND. As the price of 2OMB climbs above the peg, more 2OMB needs to be distributed to the treasury to account for 2BOND bonus redemption.
+Depending on the price of 3OMB, the Boardroom print will have to adjust to provide a buffer for any unclaimed 2BOND. As the price of 2OMB climbs above the peg, more 2OMB needs to be distributed to the treasury to account for 2BOND bonus redemption.
 
 ## Dividends
 

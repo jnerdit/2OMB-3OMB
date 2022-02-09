@@ -11,8 +11,8 @@
 * [Untitled](introduction/untitled.md)
 * [⚖ What is Seigniorage?](introduction/what-is-seigniorage/README.md)
   * [Figma Integration](introduction/what-is-seigniorage/figma-integration.md)
-* [2OMB TOKENS](introduction/2omb-tokens.md)
-* [3OMB Tokens](introduction/3omb-tokens.md)
+* [2OMB Token Contracts](introduction/2omb-token-contracts.md)
+* [3OMB Token Contracts](introduction/3omb-token-contracts.md)
 * [Creating Liquidity](introduction/creating-liquidity.md)
 
 ## 💸 Yield Optimizers
