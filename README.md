@@ -7,7 +7,7 @@ cover: .gitbook/assets/discord banner-01.png
 # ➡ T|2|3OMB FINANCE
 
 {% hint style="success" %}
-**T|2|3 Finance** is a collaboration of the [**2OMB**](https://2omb.finance)**/**[**3OMB**](https://3omb.finance) \*\*\*\* project and [**TOMB**](https://tomb.finance) \*\*\*\* project teams. We are a decentralized finance (DeFi) product. We are also a thriving [**community**](https://discord.gg/fAMqw6vF). Leveraging the Fantom Opera blockchain to deliver our protocol with an advanced tech stack, that has cheap transactions at light-speed providing the best user-experience, accessible to all.
+**T|2|3 Finance** is a collaboration of the [**2OMB**](https://2omb.finance)**/**[**3OMB**](https://3omb.finance) project and [**TOMB**](https://tomb.finance) project teams. We are a decentralized finance (DeFi) product. We are also a thriving [**community**](https://discord.gg/fAMqw6vF). Leveraging the Fantom Opera blockchain to deliver our protocol with an advanced tech stack, that has cheap transactions at light-speed providing the best user-experience, accessible to all.
 {% endhint %}
 
 {% hint style="info" %}
