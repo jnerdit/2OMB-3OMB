@@ -15,38 +15,35 @@
 * [Brand Assets](introduction/brand-assets.md)
 * [Creating Liquidity](introduction/creating-liquidity.md)
 
+## ⛓ 2OMB OVERVIEW
+
+* [Boardroom](2omb-overview/boardroom.md)
+* [Farms](2omb-overview/farms.md)
+* [Bonds](2omb-overview/bonds.md)
+
+## 📈 3OMB PROTOCOL
+
+* [What is 3OMB?](3omb-protocol/what-is-3omb.md)
+* [3OMB LAUNCH](3omb-protocol/3omb-launch.md)
+* [3ROOM](3omb-protocol/3room.md)
+* [3FARM](3omb-protocol/3farm.md)
+* [3DAO](3omb-protocol/3dao.md)
+
 ## 💸 Yield Optimizers
 
 * [Auto Compounding](yield-optimizers/auto-compounding.md)
 * [Beluga Finance](yield-optimizers/beluga-finance.md)
 * [Beefy Finance](yield-optimizers/beefy-finance.md)
 * [YieldWolf](yield-optimizers/yieldwolf.md)
-* [Strategies](yield-optimizers/strategies.md)
-
-## 2⃣ 2OMB PLATFORM
-
-* [Boardroom](2omb-platform/boardroom.md)
-* [Farms](2omb-platform/farms.md)
-* [Bonds](2omb-platform/bonds.md)
-
-## 3⃣ 3OMB PLATFORM
-
-* [What is 3OMB?](3omb-platform/what-is-3omb.md)
-* [3OMB LAUNCH](3omb-platform/3omb-launch.md)
-* [3ROOM](3omb-platform/3room.md)
-* [3FARM](3omb-platform/3farm.md)
-* [3DAO](3omb-platform/3dao.md)
+* [📏 Strategies](yield-optimizers/strategies.md)
 
 ## FUNDAMENTALS
 
-* [Tools & Charts](fundamentals/tools-and-charts.md)
+* [📊 Tools & Charts](fundamentals/tools-and-charts.md)
 * [🦊 Using MetaMask](fundamentals/using-metamask.md)
 * [🌉 How to Bridge Assets](fundamentals/how-to-bridge-assets.md)
 
-## Advanced
-
-* [⚠ DEGEN ZONE](advanced/degen-zone.md)
-
 ## 🔗 USEFUL LINKS
 
-* [Page 1](useful-links/page-1.md)
+* [Social Media](useful-links/social-media.md)
+* [AMA Archive](useful-links/ama-archive.md)
