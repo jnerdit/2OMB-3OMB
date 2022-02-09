@@ -2,7 +2,7 @@
 description: STRATEGIES AND GAME THEORY FOR THE MODERN DEGENERATE
 ---
 
-# 📏 Strategies
+# ⚖ Strategies
 
 The typical setup is to have 2 tokens, a stablecoin pegged to another asset, and a share token.
 
@@ -35,16 +35,16 @@ THE MAIN FLOW IS:
 {% endhint %}
 
 {% hint style="warning" %}
-**SOME OF THESE STRATEGIES INVOLVE USING VAULTS/POOLS/SERVICES THAT ARE THIRD PARTY, WE ARE NOT LIABLE FOR ANY LOSS OF FUNDS, FOR ANY REASON, INCLUDING SMART CONTRACT RISK, SO PLEASE BE WARNED.**&#x20;
+**SOME OF THESE STRATEGIES INVOLVE USING VAULTS/POOLS/SERVICES THAT ARE THIRD PARTY, WE ARE NOT LIABLE FOR ANY LOSS OF FUNDS, FOR ANY REASON, INCLUDING SMART CONTRACT RISK, SO PLEASE BE WARNED.**
 {% endhint %}
 
 {% hint style="info" %}
-The 2OMB/3OMB Smart Contracts,  implement a type of [**Seigniorage**](https://www.investopedia.com/terms/s/seigniorage.asp) protocol. A _protocol_, in this context refers Solidity code that was written, and has now been compiled and executed on the blockchain. The protocol itself defines the rules, parameters, definitions, functions, math, etc that make up the 2OMB/3OMB system. This includes the algorithm(s) used by the protocol for various things. Protocol/Contract are often are used interchangeably, which is a semantics issue, not to put to fine a point on it
+The 2OMB/3OMB Smart Contracts, implement a type of [**Seigniorage**](https://www.investopedia.com/terms/s/seigniorage.asp) protocol. A _protocol_, in this context refers Solidity code that was written, and has now been compiled and executed on the blockchain. The protocol itself defines the rules, parameters, definitions, functions, math, etc that make up the 2OMB/3OMB system. This includes the algorithm(s) used by the protocol for various things. Protocol/Contract are often are used interchangeably, which is a semantics issue, not to put to fine a point on it
 {% endhint %}
 
 ## STRATEGIES
 
-### _**60/40**_  "**The OG Seignorage strategy**"
+### _**60/40**_ "**The OG Seignorage strategy**"
 
 Create 2OMB-wFTM LP as well as buying some 2SHARES with your BOARDROOM reward. Typically, doing this every time 'the money printer goes brrr' (every EPOCH) or at very least once a day. This creates buy pressure on FTM and buy pressure on SHARES.
 
@@ -69,7 +69,7 @@ This is another popular strategy, if you are more conservative/patient and do no
 4. Stake the 2SHARES earned from FARMS into the BOARDROOM
 
 {% hint style="info" %}
-The following strats/examples I use '100' 2OMB/3OMB as the daily 24hr rewards from the BR/3ROOM (4 x 6 hour Epochs) because it makes math easy to do/visualize. Do note that these strats can be applied to any amount/value of 2OMB/3OMB. The numbers in the strategy names are percentages.&#x20;
+The following strats/examples I use '100' 2OMB/3OMB as the daily 24hr rewards from the BR/3ROOM (4 x 6 hour Epochs) because it makes math easy to do/visualize. Do note that these strats can be applied to any amount/value of 2OMB/3OMB. The numbers in the strategy names are percentages.
 {% endhint %}
 
 {% hint style="warning" %}
@@ -79,14 +79,14 @@ None of the above strategies factor in profit taking. it is highly advisable and
 {% hint style="success" %}
 **To calculate the % of an integer remember;**
 
-{100 x 0.60 = 60} == {60 = 60% of 100}&#x20;
+{100 x 0.60 = 60} == {60 = 60% of 100}
 
 {375 x 0.40 = 150} == {150 = 40% of 375}
 {% endhint %}
 
 ## PROFIT TAKING STRATEGIES
 
-### _**50/40/10**_** "10% ROI Marauder"**
+### _**50/40/10**_\*\* "10% ROI Marauder"\*\*
 
 This strategy achieves similar results to 60/40 or 50/50, but everyday you take profit out:
 
@@ -106,7 +106,7 @@ Same as _50/40/10_ above except this is only taking out (realizing) 5% profits d
 
 <mark style="color:red;">--2OMB</mark> | <mark style="color:green;">++wFTM</mark>
 
-### _**50/40/5/5**_** "FiveFive (10)"**
+### _**50/40/5/5**_\*\* "FiveFive (10)"\*\*
 
 1. Take 50% of rewards and sell or FTM
 2. Take 40% of rewards and create 2OMB-wFTM LP and stake in FARMS
@@ -137,7 +137,7 @@ Another one to do after you have rewards or are breaking open LP. Also a good on
 
 <mark style="color:red;">--2OMB</mark> | <mark style="color:green;">++wFTM</mark> | <mark style="color:green;">++2SHARES</mark> | <mark style="color:green;">++3SHARES</mark>
 
-### _**60/40/3**_** "The GOAT"**
+### _**60/40/3**_\*\* "The GOAT"\*\*
 
 {% hint style="success" %}
 **Might be a good one while 3OMB is over peg and in price discovery and still landing**

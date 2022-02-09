@@ -2,7 +2,7 @@
 description: THE 2OMB PLATFORM TOKENS
 ---
 
-# 2OMB TOKENS
+# 📄 2OMB Contracts
 
 ## 2OMB - 2OMB TOKEN <a href="#2omb-2omb-token" id="2omb-2omb-token"></a>
 
@@ -20,7 +20,7 @@ As the 2OMB share token, $2SHARES are one of the ways to measure the value of th
 
 1. 1._Team Allocation:_ 4990 2SHARES vested linearly over 3 months
 2. 2.Initial mint: 10 2SHARES minted upon contract creation for initial pool
-3. 3._Remaining 65000 2_SHARES are allocated for incentivizing Liquidity Providers in two shares pools for 4 months
+3. 3.\_Remaining 65000 2\_SHARES are allocated for incentivizing Liquidity Providers in two shares pools for 4 months
 
 ![](../.gitbook/assets/2SHARES\_344x500.png)
 
