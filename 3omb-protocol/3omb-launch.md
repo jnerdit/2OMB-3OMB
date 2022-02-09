@@ -24,14 +24,14 @@ Once the genesis pool is over, and users have their 3OMB, the farms will open.
 contract: 0x14def7584a6c52f470ca4f4b9671056b22f4ffde
 {% endembed %}
 
-Once you have obtained your 3OMB (by buying through SpookySwap or from the Genesis Pool), you will be able to add 3OMB-wFTM liquidity through SpookySwap.&#x20;
+Once you have obtained your 3OMB (by buying through SpookySwap or from the Genesis Pool), you will be able to add 3OMB-wFTM liquidity through SpookySwap.
 
 Head over to SpookySwap and select the amount of 3OMB you want to deposit. The corresponding amount in FTM will automatically be updated.
 
 \
 You will need to have a 50/50 ratio of 3OMB and FTM, so make sure you keep some FTM. You can buy 3OMB using [**SpookySwap**](https://spookyswap.finance/swap) and swapping your FTM for 3OMB.
 
-Once you have obtained your LP tokens, head over to [**3FARMS**](https://3omb.finance/farms) **** and select the 3OMB-wFTM LP. Now approve the 3OMB-wFTM LP spending, then wait until this transaction is confirmed, and press on the "+", select the amount of LP tokens, and hit Deposit.&#x20;
+Once you have obtained your LP tokens, head over to [**3FARMS**](https://3omb.finance/farms) \*\*\*\* and select the 3OMB-wFTM LP. Now approve the 3OMB-wFTM LP spending, then wait until this transaction is confirmed, and press on the "+", select the amount of LP tokens, and hit Deposit.
 
 Congrats! You will now start receiving your rewards in 3Shares.
 
@@ -41,23 +41,23 @@ Congrats! You will now start receiving your rewards in 3Shares.
 contract: 0x6437adac543583c4b31bf0323a0870430f5cc2e7
 {% endembed %}
 
-Once you have obtained your 3SHARES (by buying through SpookySwap or from the 3OMB LP rewards). You will be able to add 3SHARES-wFTM liquidity for SpookySwap LP tokens.&#x20;
+Once you have obtained your 3SHARES (by buying through SpookySwap or from the 3OMB LP rewards). You will be able to add 3SHARES-wFTM liquidity for SpookySwap LP tokens.
 
 Head over to SpookySwap and select the number of 3SHARES you want to deposit. The corresponding amount in FTM will automatically be updated.
 
 \
 You will need to have a 50/50 ratio of 3SHARES and FTM, so make sure you keep some FTM. You can buy 3SHARES using [**SpookySwap**](https://spookyswap.finance/swap) and swapping your FTM for 3SHARES.
 
-Once you have obtained your LP tokens, head over to [**3FARMS**](https://3omb.finance/farms) and select the 3SHARES-wFTM LP. Now approve the 3SHARES-wFTM LP spending, wait until this transaction is confirmed, and press on the "+", select the amount of LP tokens, and hit Deposit.&#x20;
+Once you have obtained your LP tokens, head over to [**3FARMS**](https://3omb.finance/farms) and select the 3SHARES-wFTM LP. Now approve the 3SHARES-wFTM LP spending, wait until this transaction is confirmed, and press on the "+", select the amount of LP tokens, and hit Deposit.
 
 Congrats! You will now start receiving your rewards in 3SHARES.
 
 ### Phase(3) Farming Phase
 
-After X Hours (TBA), the additional farming pools will open. Here is the complete list of LP possibilities:&#x20;
+After X Hours (TBA), the additional farming pools will open. Here is the complete list of LP possibilities:
 
-![3OMB 3FARMS POOLS](../.gitbook/assets/image.png)
+![3OMB 3FARMS POOLS](<../.gitbook/assets/image (1).png>)
 
 {% hint style="info" %}
-All these LP farms will have rewards in 3SHARES. As you can see in the image, some pools have reward multipliers.&#x20;
+All these LP farms will have rewards in 3SHARES. As you can see in the image, some pools have reward multipliers.
 {% endhint %}

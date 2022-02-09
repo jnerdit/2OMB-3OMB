@@ -40,12 +40,14 @@
 * [AMA Archive](useful-links/ama-archive.md)
 * [Brand Assets](useful-links/brand-assets.md)
 * [Social Media](useful-links/social-media.md)
+* [Resources](useful-links/resources.md)
 * [2OMB](useful-links/2omb.md)
 * [3OMB](useful-links/3omb.md)
 * [TOMB](useful-links/tomb.md)
 
 ## FUNDAMENTALS
 
+* [💳 Buying Fantom](fundamentals/buying-fantom.md)
+* [🌉 How to Bridge Assets](fundamentals/how-to-bridge-assets.md)
 * [📊 Tools & Charts](fundamentals/tools-and-charts.md)
 * [🦊 Using MetaMask](fundamentals/using-metamask.md)
-* [🌉 How to Bridge Assets](fundamentals/how-to-bridge-assets.md)
