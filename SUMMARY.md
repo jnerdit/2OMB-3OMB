@@ -26,6 +26,7 @@
 ***
 
 * [⚖ Strategies](strategies.md)
+* [📊 Tools & Charts](tools-and-charts.md)
 
 ## 💸 Yield Optimizers
 
@@ -49,5 +50,4 @@
 
 * [💳 Buying Fantom](fundamentals/buying-fantom.md)
 * [🌉 How to Bridge Assets](fundamentals/how-to-bridge-assets.md)
-* [📊 Tools & Charts](fundamentals/tools-and-charts.md)
 * [🦊 Using MetaMask](fundamentals/using-metamask.md)

@@ -38,8 +38,8 @@ We have no affiliation with any other projects, with any other names such as 4OM
 [faq.md](introduction/readme/faq.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/tools-and-charts.md" %}
-[tools-and-charts.md](fundamentals/tools-and-charts.md)
+{% content-ref url="tools-and-charts.md" %}
+[tools-and-charts.md](tools-and-charts.md)
 {% endcontent-ref %}
 
 {% content-ref url="2omb-overview/2omb-contracts.md" %}
@@ -49,4 +49,3 @@ We have no affiliation with any other projects, with any other names such as 4OM
 {% content-ref url="3omb-protocol/3omb-contracts.md" %}
 [3omb-contracts.md](3omb-protocol/3omb-contracts.md)
 {% endcontent-ref %}
-
