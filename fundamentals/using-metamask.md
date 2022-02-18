@@ -2,7 +2,7 @@
 description: HOW TO CONNECT METAMASK TO THE FANTOM OPERA NETWORK
 ---
 
-# 🦊 Using MetaMask
+# Using MetaMask
 
 #### MetaMask setup
 

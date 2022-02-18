@@ -2,11 +2,11 @@
 description: OVERVIEW OF AC VAULTS
 ---
 
-# Auto Compounding
+# 💰 Auto Compounding
 
 ### Manual Compounding
 
-You can also deposit your LP tokens on 2|3OMB directly. Head over to [**FARMS** ](https://2omb.finance/farms)**/** [**3FARM**](https://3omb.finance/farms) **** and chose the farm you want to enter. Approve the token on the website by clicking on "Approve" and wait for tx confirmation. The click on the + button and enter the amount of LP tokens you want to deposit.&#x20;
+You can also deposit your LP tokens on 2|3OMB directly. Head over to [**FARMS** ](https://2omb.finance/farms)**/** [**3FARM**](https://3omb.finance/farms) \*\*\*\* and chose the farm you want to enter. Approve the token on the website by clicking on "Approve" and wait for tx confirmation. The click on the + button and enter the amount of LP tokens you want to deposit.
 
 Compounding manually You can compound your rewards manually, by claiming your tokens and repeating the steps from Creating Liquidity. See Strategies for more details.
 

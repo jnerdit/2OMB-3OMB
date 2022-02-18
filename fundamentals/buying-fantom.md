@@ -2,11 +2,11 @@
 description: HOW TO GET ONTO THE FANTOM OPERA NETWORK
 ---
 
-# 💳 Buying Fantom
+# Buying Fantom
 
 ## Bridging your tokens
 
-If you already have tokens on other blockchains, you can bridge them to get their equivalent value on the Fantom Chain. Here are your options:&#x20;
+If you already have tokens on other blockchains, you can bridge them to get their equivalent value on the Fantom Chain. Here are your options:
 
 ### Synapse Protocol
 
@@ -15,7 +15,7 @@ If you do not see your USDC on Fantom, don't freak out yet! You need to import t
 
 ![](../.gitbook/assets/image.png)
 
-You can head over to [ftmscan](https://ftmscan.com) and look up your token (in our case USDC), then copy and paste the contract address in the "Import tokens" section on MetaMask (wait a few seconds until it loads up).&#x20;
+You can head over to [ftmscan](https://ftmscan.com) and look up your token (in our case USDC), then copy and paste the contract address in the "Import tokens" section on MetaMask (wait a few seconds until it loads up).
 
 ### SideShift.ai
 
@@ -25,7 +25,7 @@ Click on "Get Address from MetaMask"
 
 ![](<../.gitbook/assets/image (1) (1).png>)
 
-then press "Shift"&#x20;
+then press "Shift"
 
 ![](../.gitbook/assets/shift.png)
 
@@ -33,7 +33,7 @@ Copy the address
 
 ![](../.gitbook/assets/synapse3.png)
 
-Now head over to MetaMask (on the Avalanche network in our example), click "Send" (sorry i'm baguette so Envoyer in my case)  ![](broken-reference)\
+Now head over to MetaMask (on the Avalanche network in our example), click "Send" (sorry i'm baguette so Envoyer in my case) ![](broken-reference)\
 Paste the address you copied from Synapse, enter the amount you want to bridge, (check the Min/Max amount before sending), and don't forget to change the token you want to send to the one you chose (MIM in our case).\
-You can now send, after a few seconds/minutes, Sideshift will let you know it received your tokens and will tell you once it sends you your tokens. \
+You can now send, after a few seconds/minutes, Sideshift will let you know it received your tokens and will tell you once it sends you your tokens.\
 You can now change network on MetaMask and see your sweet sweet FTM in your wallet.

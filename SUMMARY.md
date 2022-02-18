@@ -28,13 +28,19 @@
 * [⚖ Strategies](strategies.md)
 * [📊 Tools & Charts](tools-and-charts.md)
 
-## 💸 Yield Optimizers
+## 💸 FUNDAMENTALS
 
-* [Creating Liquidity](yield-optimizers/creating-liquidity.md)
-* [Auto Compounding](yield-optimizers/auto-compounding.md)
-* [Beluga Finance](yield-optimizers/beluga-finance.md)
-* [Beefy Finance](yield-optimizers/beefy-finance.md)
-* [YieldWolf](yield-optimizers/yieldwolf.md)
+* [Using MetaMask](fundamentals/using-metamask.md)
+* [Buying Fantom](fundamentals/buying-fantom.md)
+* [How to Bridge Assets](fundamentals/how-to-bridge-assets.md)
+* [Creating Liquidity](fundamentals/creating-liquidity.md)
+
+***
+
+* [💰 Auto Compounding](auto-compounding/README.md)
+  * [Beefy Finance](auto-compounding/beefy-finance.md)
+  * [Beluga Finance](auto-compounding/beluga-finance.md)
+  * [YieldWolf](auto-compounding/yieldwolf.md)
 
 ## 🔗 USEFUL LINKS
 
@@ -45,9 +51,3 @@
 * [2OMB](useful-links/2omb.md)
 * [3OMB](useful-links/3omb.md)
 * [TOMB](useful-links/tomb.md)
-
-## FUNDAMENTALS
-
-* [💳 Buying Fantom](fundamentals/buying-fantom.md)
-* [🌉 How to Bridge Assets](fundamentals/how-to-bridge-assets.md)
-* [🦊 Using MetaMask](fundamentals/using-metamask.md)
