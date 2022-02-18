@@ -86,7 +86,7 @@ None of the above strategies factor in profit taking. it is highly advisable and
 
 ## PROFIT TAKING STRATEGIES
 
-### _**50/40/10**_\*\* "10% ROI Marauder"\*\*
+### _**50/40/10**_ "10% ROI Marauder"
 
 This strategy achieves similar results to 60/40 or 50/50, but everyday you take profit out:
 
@@ -106,7 +106,7 @@ Same as _50/40/10_ above except this is only taking out (realizing) 5% profits d
 
 <mark style="color:red;">--2OMB</mark> | <mark style="color:green;">++wFTM</mark>
 
-### _**50/40/5/5**_\*\* "FiveFive (10)"\*\*
+### _**50/40/5/5**_ "FiveFive (10)"
 
 1. Take 50% of rewards and sell or FTM
 2. Take 40% of rewards and create 2OMB-wFTM LP and stake in FARMS
@@ -137,7 +137,7 @@ Another one to do after you have rewards or are breaking open LP. Also a good on
 
 <mark style="color:red;">--2OMB</mark> | <mark style="color:green;">++wFTM</mark> | <mark style="color:green;">++2SHARES</mark> | <mark style="color:green;">++3SHARES</mark>
 
-### _**60/40/3**_\*\* "The GOAT"\*\*
+### _**60/40/3**_ "The GOAT"
 
 {% hint style="success" %}
 **Might be a good one while 3OMB is over peg and in price discovery and still landing**
